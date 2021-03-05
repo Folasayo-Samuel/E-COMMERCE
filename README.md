@@ -22,7 +22,7 @@ This app is the simulation of an e-commerce site. You can enter a test credit ca
 
 <h2> 3. Dependencies :open_file_folder:</h2>
 
----
+
 
 In this app I've used **_Material UI_**, **_Commerce.js_**, **_Stripe.js_**, **_React-Router_** and **_React-Hooks_**.
 There are the commands that you can use to install these dependencies. (I've used yarn, you can use `npm install` instead of `yarn add` if you're using npm).
